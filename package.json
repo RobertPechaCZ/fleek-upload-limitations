@@ -1,0 +1,24 @@
+{
+  "name": "@fleekxyz/fleek-upload-limitations",
+  "version": "1.0.0",
+  "description": "Test limitation of Fleek SDK upload",
+  "scripts": {
+    "start": "ts-node benchmark.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertPechaCZ/fleek-upload-limitations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertPechaCZ/fleek-upload-limitations/issues"
+  },
+  "homepage": "https://github.com/RobertPechaCZ/fleek-upload-limitations#readme",
+  "dependencies": {
+    "@fleekxyz/sdk": "^1.4.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
